@@ -1,0 +1,17 @@
+{
+  "summary": {
+    "title": "THreat Model 1",
+    "owner": "Deepika"
+  },
+  "detail": {
+    "contributors": [],
+    "diagrams": [
+      {
+        "title": "Payment",
+        "thumbnail": "./public/content/images/thumbnail.jpg",
+        "id": 0
+      }
+    ],
+    "reviewer": "Deepika"
+  }
+}
